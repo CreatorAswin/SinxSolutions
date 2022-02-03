@@ -177,11 +177,11 @@ h1, h2, h3, h4, h5, h6 {
   color: #106eea;
 }
 #header .logo img {
-  max-height: 90px;
+  max-height: 80px;
 }
 
 .scrolled-offset {
-  margin-top: 90px;
+  margin-top: 80px;
 }
 
 /*--------------------------------------------------------------
@@ -533,12 +533,13 @@ section {
   color: #106eea;
 }
 .section-title p {
-  margin: 15px auto 0 auto;
+  margin: 18px auto 0 auto;
+  font-family: sans-serif;
   font-weight: 600;
 }
 @media (min-width: 1024px) {
   .section-title p {
-    width: 50%;
+    width: 60%;
   }
 }
 
